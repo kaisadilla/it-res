@@ -45,16 +45,12 @@ body {
     width: 400px;
 }
 
-.gallery {
-    width: 100%;
-    height: 100%;
+.gallery-container {
+    display: grid;
+    grid-template-columns: auto auto;
 }
 
 .gallery-content {
-    margin: 10px;
-    box-sizing: border-box;
-    float: left;
-    width: 50%;
-    height: 50%;
-    clear: none;
+    border: 1px solid black;
+    padding: 0px 0px 0px 0px;
 }
