@@ -39,12 +39,6 @@ body {
     text-align: center;
 }
 
-#showcase
-
-#showcase img {
-    width: 400px;
-}
-
 .gallery-container {
     display: grid;
     grid-template-columns: auto auto;
