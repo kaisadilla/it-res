@@ -7,3 +7,11 @@ body {
     url("../img/background.jpg");
     background-size: cover;
 }
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#promo {
+    color: white;
+}
