@@ -48,3 +48,23 @@ body {
     border: 1px solid black;
     padding: 0px 0px 0px 0px;
 }
+
+footer {
+    background-image: url('../img/bg2.jpg');
+    width: 100%;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    color: #BACE40;
+}
+
+footer > img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.quote {
+    font-family: 'Caveat', cursive;
+    font-size: 16pt;
+}
